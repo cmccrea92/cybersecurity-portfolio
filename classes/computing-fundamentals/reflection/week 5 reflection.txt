@@ -1,0 +1,23 @@
+# Week 5 Reflection - [Computing Fundamentals]
+
+**Student:** Cameron McCrea
+**Date:** 06/11/2026
+**Course:** Computing Fundamentals
+**Instructor:** Motes
+
+## What I Learned
+
+Mapping networks, Identifying ports with limited or no connectivity, and Computing requirements by system demands
+
+## What Challenged Me
+
+The most difficult part for me was working through PowerShell and Terminal to push certain commands. I was able to create references and ran through labs multiple times to assist me in learning and sticking with understanding the concepts.
+Next time I would use more YouTube, so that I could see more first hand examples of what to do and more efficient ways of working.
+
+## How This Connects to My Career Goals
+
+This connects to my career goals by providing me a solid foundational understanding of cybersecurity. I was able to understand how ports, pinging devices, and specific RAM, processors, and cooling components and their impacts on a systems viability. All of this connects into my current help desk role, making me a better technician as well as giving me additional tools to make my jump as a Cybersecurity professional.
+
+## What I Want to Learn Next
+
+Some of the things I want to learn next is how to pull reports on compromised accounts/devices and push certain actions to them. One of these tools specifically is Splunk.
